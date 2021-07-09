@@ -64,7 +64,7 @@ withdrawable.
 For this system, the asset we are tracking is a specific audit timeslot, which consists of:
 1. The total number of `slots` (e.g. "engineer weeks") the audit will take (`total_slots`)
 2. The starting date of the audit (`start_date`)
-3. The durection of the audit (`duration`)
+3. The duration of the audit (`duration`)
 4. The total bid for the audit timeslot (`bid_amount`)
 5. Whether bid has been accepted by the firm (`bid_accepted`)
 
